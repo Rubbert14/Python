@@ -1,0 +1,23 @@
+#Numeric data can be of integer type (int) which are normal numbers like 5 or 7.Or it can be of float type, which are decimal numbers like 8.256.
+Floats are not written with a comma but with a period.
+
+#Addition
+5 + 5 = 10 > int     or     5.2 + 4.4 = 9.6 > float
+
+#subtraction
+5 - 5 = 0 > int      or    7.86 - 5.26 = 2.6 > float            
+
+#division
+16/4 = 4 > int       or    21/5 = 4.2 > float    
+
+#multiplication
+4*4 = 16 > int       
+
+#integer division (it means that the result of division without remainder)
+7//2 = 3 > int
+
+#remainder after integer division
+7%3 = 2 (because 7 = 3*2+1)
+
+#power
+2**2 = 4 > int       
